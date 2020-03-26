@@ -25,7 +25,6 @@ InstallDevMenu "Core\Developer Menu\"
 # Deploying Windows
 DeployWindows
 MakeWindowsBootable
-CopyDirectory "[DPP]" "[Windows]\DPP"
 # Injecting Drivers
 InjectDrivers "Downloaded\DEVICE.INPUT.SYNAPTICS_RMI4_F12_10"
 InjectDrivers "Downloaded\DEVICE.SOC_QC8994.CITYMAN"
